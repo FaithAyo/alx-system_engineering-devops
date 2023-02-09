@@ -1,2 +1,2 @@
-#!bin/bash
-echo "ls -l -a -i" \ 
+#!/bin/bash
+ls -i
